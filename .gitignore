@@ -1,0 +1,7 @@
+*.txt
+*.png
+*.jpg
+c3510venv/
+c3510venv\
+c3510-artGalery/a bruxinha/*
+c3510-artGalery\a bruxinha\*
